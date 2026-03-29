@@ -1,0 +1,45 @@
+{
+  "name": "Ali Hamza",
+  "title": "Information Engineering Technologist",
+  "bio": "Specializes in building high-performance web and mobile applications with deep AI/ML integration and e-commerce expertise.",
+  "education": [
+    {
+      "degree": "BS Information Engineering Technology",
+      "institution": "The University of Lahore",
+      "period": "Oct 2023 - Oct 2027",
+      "grade": "A+"
+    }
+  ],
+  "skills": {
+    "core": ["Python", "PHP", "JavaScript (ES6+)", "Dart", "C++", "SQL", "MySQL", "PostgreSQL"],
+    "web": ["Angular", "React", "Next.js", "HTML5", "CSS3", "WordPress", "Shopify", "WooCommerce"],
+    "mobile_ai": ["Flutter", "Android SDK", "Local LLMs", "LangChain", "AI Agents"],
+    "devops": ["AWS (EC2)", "Docker", "Git", "CI/CD", "SonarQube", "WHM/cPanel"]
+  },
+  "projects": [
+    {
+      "name": "Adrimo Paris",
+      "type": "Shopify",
+      "url": "https://adrimoparis.com/",
+      "desc": "Elegant brand website with a focus on aesthetics and user experience."
+    },
+    {
+      "name": "X2 Technologies",
+      "type": "WordPress",
+      "url": "https://x2technologies.pk/",
+      "desc": "Corporate website showcasing technology services and solutions."
+    },
+    {
+      "name": "USA Local Businesses",
+      "type": "WordPress",
+      "url": "https://usalocalbusinesses.com/",
+      "desc": "Massive directory platform for local businesses across the USA."
+    }
+  ],
+  "pricing_template": {
+    "landing_page": "$200 - $500",
+    "ecommerce": "$800 - $2000",
+    "custom_web_app": "$1500+",
+    "ai_integration": "+$500"
+  }
+}
