@@ -50,7 +50,7 @@ class AIEngine:
         full_messages = [{"role": "system", "content": SYSTEM_PROMPT}] + messages
         
         completion = self.client.chat.completions.create(
-            model="llama3-70b-8192",
+            model="llama-3.3-70b-versatile",
             messages=full_messages,
             temperature=0.7,
             max_tokens=1024,
